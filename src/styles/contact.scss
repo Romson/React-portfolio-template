@@ -1,0 +1,38 @@
+.contact-body {
+    margin: $marginAuto;
+    position: $fixedPosition;
+    width: $fullWidth;
+    height: $fullHeight;
+    justify-content: $contentCentered;
+    padding-top: $contactPadding;
+}
+
+.contact-grid {
+    text-align: $contentCentered;
+    justify-content: $contentCentered;
+    width: $fourFifthWidth;
+    height: $height550;
+    background: $whiteBg;
+    color: $black;
+    margin-bottom: $marginBottom20;
+}
+
+.contact-grid h2 {
+    font-family: $fontAnton;
+}
+
+.contact-grid p {
+    font-family: $fontOxygen;
+    font-weight: $bolded;
+}
+
+.contact-grid hr {
+    border-top: $topBorder;
+    width: $mediumWidth;
+    margin: $marginAuto;
+}
+
+.contact-list i {
+    font-size: $fontSize;
+    padding-right: $paddingRight;
+}

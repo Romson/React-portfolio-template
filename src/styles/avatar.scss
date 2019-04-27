@@ -1,0 +1,43 @@
+.avatar-img {
+    height: $height350;
+    padding-top: $padding2em;
+}
+
+.banner-text {
+    background-color: $black;
+    opacity: $opacity;
+    width: $width75Percent;
+    margin: $marginAuto;
+    border-radius: $borderRadius10PX;
+}
+
+.banner-text h1 {
+    font-size: $fontSize66PX;
+    font-weight: $bolded;
+    color: $whiteBg;
+}
+
+.banner-text hr {
+    border-top: $topBorderWhite;
+    width: $mediumWidth;
+    margin: $marginAuto;
+}
+
+.banner-text p {
+    color: $whiteBg;
+    font-size: $fontSize20PX;
+    padding: $padding1em;
+}
+
+.social-links {
+    display: $displayFlex;
+    justify-content: $justifyContentSpace;
+    width: $mediumWidth;
+    margin: $marginAuto;    
+}
+
+.social-links i {
+    color: $whiteBg;
+    font-size: $fontSize5EM;
+    padding: $padding8PX;
+}

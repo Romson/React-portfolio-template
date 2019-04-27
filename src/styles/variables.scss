@@ -1,0 +1,47 @@
+/* Header Page */
+$headerBg: #833ab4;
+$headerWebkit: -webkit-linear-gradient(to right, #fcb045, #fd1d1d, #833ab4);
+$headerGradient: linear-gradient(to right, #fcb045, #fd1d1d, #833ab4);
+
+/* Resume Page */
+$rightColBg: #27221F;
+
+/* Contact Page */
+$marginAuto: auto;
+$fixedPosition: fixed;
+$fullWidth: 100%;
+$mediumWidth: 50%;
+$fullHeight: 100%;
+$contentCentered: center;
+$contactPadding: 2em;
+$fourFifthWidth: 80%;
+$height550: 550px;
+$whiteBg: white;
+$black: black;
+$marginBottom20: 20px;
+$fontAnton: 'Anton', sans-serif;
+$fontOxygen: 'Oxygen', sans-serif;
+$bolded: bold;
+$topBorder: 5px  dotted black;
+$fontSize: 35px;
+$paddingRight: 5rem;
+
+/* Avatar */
+$height350: 350px;
+$height: $height350;
+$padding2em: 2em;
+$opacity: .8;
+$width75Percent: 75%;
+$borderRadius10PX: 10px;
+$fontSize66PX: 66px;
+$topBorderWhite: 5px dotted white;
+$fontSize20PX: 20px;
+$padding1em: 1em;
+$displayFlex: flex;
+$justifyContentSpace: space-between;
+$width: 50%;
+$margin: auto;    
+$color: white;
+$fontSize5EM: 5em;
+$padding8PX: 8px;
+
