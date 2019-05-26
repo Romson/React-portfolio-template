@@ -1,5 +1,5 @@
 ### `React Portfolio template`
-A nice and clean blog template free to use. Styling done with Material UI.
+A nice and clean Portfolio template free to use. Styling done with Material UI.
 
 ### `Dependencies used`
 
