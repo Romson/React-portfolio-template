@@ -1,6 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-### `React Blog template`
+### `React Portfolio template`
 A nice and clean blog template free to use. Styling done with Material UI.
 
 ### `Dependencies used`
