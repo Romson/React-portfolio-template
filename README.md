@@ -4,10 +4,11 @@ A nice and clean Portfolio template free to use. Styling done with Material UI.
 ### `Dependencies used`
 
 ```
-npm i react-router-dom 
-npm i react-bootstrap bootstrap
-npm i node-sass
-npm i sass-loader
+"react": "^16.8.6",
+"react-dom": "^16.8.6",
+"react-mdl": "^1.11.0",
+"react-router-dom": "^5.0.0",
+"react-scripts": "3.0.0"
 ```
 
 
