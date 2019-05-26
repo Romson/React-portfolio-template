@@ -9,6 +9,8 @@ A nice and clean Portfolio template free to use. Styling done with Material UI.
 "react-mdl": "^1.11.0",
 "react-router-dom": "^5.0.0",
 "react-scripts": "3.0.0"
+"node-sass": "^4.11.0",
+"sass-loader": "^7.1.0"
 ```
 
 
